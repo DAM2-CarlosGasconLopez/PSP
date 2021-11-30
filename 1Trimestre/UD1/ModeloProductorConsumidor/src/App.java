@@ -110,7 +110,8 @@ class Panaderia{
             }
         }
         //Hasta que las barras no sean 0, el panadero no hace las barras
-        setnBarras(20);        
+        setnBarras(20); 
+               
         //Duerme a los clientes
         notifyAll();
 
